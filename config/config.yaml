@@ -1,0 +1,5 @@
+appconfig:
+  appURL: "http://localhost:8081/"
+  appPort: "8081"
+  loglevel: 5
+    
